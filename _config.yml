@@ -1,0 +1,28 @@
+name: TulsaInsuranceGuy
+favicon: null
+layout_spectrum: 0.6929723380599171
+typography_spectrum: 0.7180303989443928
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5284216983709484
+  lightness: 0.8702118077781051
+  saturation: 0.4716401619371027
+  rhythmicContrast: 0.4090967474039644
+purpose: []
