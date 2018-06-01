@@ -1,29 +1,42 @@
-name: Tulsa Insurance Guy
-favicon: null
-layout_spectrum: 0.75073
-typography_spectrum: 1
-title: 'Home |  Auto | Commercial | Life'
+name: Tulsa Insurance Guy - Home | Auto | Business | Life
+analytics: {}
+purpose: []
+github: true
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
+author:
+  name: Tulsa Insurance Guy
+  url: www.tulsainsuranceguy.com
+  email: jimmy@tulsainsuranceguy.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.75073
 color:
+  lightness: 0.8702118077781051
   brandColors:
     - '#515153'
     - '#6b6b6d'
     - '#ffffff'
     - '#9d9d9f'
     - '#d9d9d9'
-  brandStrength: 0.5284216983709484
-  lightness: 0.8702118077781051
   saturation: 0.4716401619371027
+  brandStrength: 0.5284216983709484
   rhythmicContrast: 1
-purpose: []
+content_rating:
+  adult: false
+typography_spectrum: 1
+opengraph: {}
+title: Home |  Auto | Commercial | Life
